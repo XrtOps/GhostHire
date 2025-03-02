@@ -1,0 +1,8 @@
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.AssemblyInfo.cs
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.RazorAssemblyInfo.cache
+C:\Users\lukas\Desktop\GhostHire\GhostHire\obj\Debug\net8.0\GhostHire.RazorAssemblyInfo.cs

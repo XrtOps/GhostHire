@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Terms and Conditions";
+}
+
+<!-- Link to External Stylesheet -->
+<link rel="stylesheet" href="/css/terms.css">
+
+<!-- Navigation Bar -->
+<nav class="navbar">
+    <div class="nav-left">
+        <!-- GhostHire Logo Redirects to Home -->
+        <div class="logo">
+            <a href="@Url.Action("HomePage", "Home")">
+                <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+            </a>
+        </div>
+
+        <!-- Navigation Links -->
+        <ul class="nav-links">
+            <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li>
+            <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li>
+            <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Terms and Conditions Section -->
+<div class="terms-container">
+    <h2 class="terms-title">Terms and Conditions</h2>
+
+    <h3>1. Introduction</h3>
+    <p>Welcome to GhostHire. By using our platform, you agree to comply with these Terms and Conditions.</p>
+
+    <h3>2. User Responsibilities</h3>
+    <p>Users must provide accurate information, respect other users, and not engage in fraudulent activities.</p>
+
+    <h3>3. Service Listings</h3>
+    <p>GhostHire allows users to post and hire for services. All listings must comply with our content policies.</p>
+
+    <h3>4. Payments & Fees</h3>
+    <p>GhostHire does not handle payments directly. All financial transactions should be conducted securely through third-party services.</p>
+
+    <h3>5. Intellectual Property</h3>
+    <p>Users must respect copyright and intellectual property laws. Unauthorized content will be removed.</p>
+
+    <h3>6. Account Suspension</h3>
+    <p>Accounts may be suspended if users violate these terms, engage in misconduct, or submit false information.</p>
+
+    <h3>7. Liability Disclaimer</h3>
+    <p>GhostHire is not responsible for any disputes, damages, or losses resulting from services arranged through our platform.</p>
+
+    <h3>8. Changes to Terms</h3>
+    <p>We may update these terms at any time. Continued use of our platform constitutes acceptance of the new terms.</p>
+
+    <h3>9. Contact Us</h3>
+    <p>If you have any questions about these Terms and Conditions, please contact us at <strong>support@ghosthire.com</strong>.</p>
+
+    <a href="@Url.Action("HomePage", "Home")" class="btn-home">Back to Home</a>
+</div>

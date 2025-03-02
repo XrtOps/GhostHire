@@ -1,0 +1,46 @@
+﻿@model List<GhostHire.Controllers.ServiceModel>
+
+@{
+    ViewData["Title"] = "Anonymous Services";
+}
+
+<h2>Hire Anonymous Services</h2>
+
+<div class="service-list">
+    @foreach (var service in Model)
+    {
+        <div class="service-card">
+            <h3>@service.Title</h3>
+            <p>@service.Description</p>
+            <p><strong>Price:</strong> $@service.Price</p>
+            <a href="@Url.Action("Hire", "Sell", new { id = service.Id })" class="btn btn-primary">Hire</a>
+        </div>
+    }
+</div>
+
+<style>
+    .service-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .service-card {
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        width: 250px;
+        text-align: center;
+        background: #f9f9f9;
+    }
+
+    .btn {
+        padding: 10px 15px;
+        text-decoration: none;
+        background: #007bff;
+        color: white;
+        border-radius: 5px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+</style>

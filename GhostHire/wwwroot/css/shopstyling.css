@@ -1,0 +1,83 @@
+﻿/* Shop Page Styling */
+.shop-page {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Shop Title */
+.shop-title {
+    font-size: 2rem;
+    color: #1e3c72;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Listings Container */
+.listings-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Listings Grid Layout */
+.listings-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    width: 80%;
+}
+
+/* Individual Listing Card */
+.listing-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+    .listing-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Listing Title */
+    .listing-card h3 {
+        font-size: 1.2rem;
+        color: #1e3c72;
+    }
+
+/* Listing Description */
+.description {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Price Styling */
+.price {
+    font-size: 1.1rem;
+    color: #1dbf73;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+/* Buy Now Button */
+.buy-now {
+    background: #1dbf73;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .buy-now:hover {
+        background: #159a5a;
+    }
+
+/* No Listings Message */
+.no-listings {
+    font-size: 1.2rem;
+    color: #ff4d4d;
+    font-weight: bold;
+}

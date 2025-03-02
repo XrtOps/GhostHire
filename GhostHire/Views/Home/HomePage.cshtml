@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/css/searchbar.css">
+    <link rel="stylesheet" href="~/css/backgroundswitch.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <title>GhostHire</title>
+</head>
+
+<body>
+    <!-- Background Animation -->
+    <div id="particles-js"></div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <!-- GhostHire Logo Redirects to Home -->
+            <div class="logo">
+                <a href="@Url.Action("HomePage", "Home")">
+                    <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+                </a>
+            </div>
+
+            <!-- Navigation Links -->
+            <ul class="nav-links">
+                <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+                <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li> <!--This is where all listings will show-->
+                <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li> <!--This is where users will post an ad-->
+                <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+            </ul>
+
+            <!-- Light/Dark Mode Switch -->
+            <div class="switch-container">
+                <label class="switch">
+                    <input type="checkbox" id="theme-switch" />
+                    <div class="slider round">
+                        <div class="sun-moon">
+                            <svg id="moon-dot-1" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="moon-dot-2" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="moon-dot-3" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="light-ray-1" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="light-ray-2" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="light-ray-3" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-1" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-2" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-3" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-4" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-5" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                            <svg id="cloud-6" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                        </div>
+                    </div>
+                </label>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <h1>Find the <span class="highlight">right freelance</span> service, right away</h1>
+        <div class="search-container">
+            <input type="text" class="search-bar" placeholder="Search for any service...">
+            <button class="search-btn">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Freelance Categories Section -->
+    <section class="categories">
+        <h2 style="font-size: 2.5rem; color: #1e3c72; font-weight: bolder; margin-bottom: 20px;">Browse Freelance Categories</h2>
+        <div class="categories-list">
+            <!-- Add dynamic links for each category -->
+            <a href="/Shop?category=Web%20Design" class="category">Web Design</a>
+            <a href="/Shop?category=Graphic%20Design" class="category">Graphic Design</a>
+            <a href="/Shop?category=Digital%20Marketing" class="category">Digital Marketing</a>
+            <a href="/Shop?category=Writing%20&%20Translation" class="category">Writing & Translation</a>
+            <a href="/Shop?category=Programming" class="category">Programming</a>
+            <a href="/Shop?category=Video%20&%20Animation" class="category">Video & Animation</a>
+            <a href="/Shop?category=Music%20&%20Audio" class="category">Music & Audio</a>
+            <a href="/Shop?category=Photography" class="category">Photography</a>
+            <a href="/Shop?category=SEO%20Services" class="category">SEO Services</a>
+            <a href="/Shop?category=Content%20Writing" class="category">Content Writing</a>
+            <a href="/Shop?category=Copywriting" class="category">Copywriting</a>
+            <a href="/Shop?category=Illustration" class="category">Illustration</a>
+            <a href="/Shop?category=Virtual%20Assistant" class="category">Virtual Assistant</a>
+            <a href="/Shop?category=App%20Development" class="category">App Development</a>
+            <a href="/Shop?category=UI%2FUX%20Design" class="category">UI/UX Design</a>
+            <a href="/Shop?category=Voiceover" class="category">Voiceover</a>
+            <a href="/Shop?category=Translation%20Services" class="category">Translation Services</a>
+            <a href="/Shop?category=E-commerce" class="category">E-commerce</a>
+            <a href="/Shop?category=Business%20Consulting" class="category">Business Consulting</a>
+            <a href="/Shop?category=Website%20Development" class="category">Website Development</a>
+            <a href="/Shop?category=Email%20Marketing" class="category">Email Marketing</a>
+            <a href="/Shop?category=Photo%20Editing" class="category">Photo Editing</a>
+            <a href="/Shop?category=3D%20Modeling" class="category">3D Modeling</a>
+            <a href="/Shop?category=Event%20Planning" class="category">Event Planning</a>
+        </div>
+        <h2 style="font-size: 1.5rem; color: #1e3c72; font-weight: bolder; margin-top: 20px;">Don't See What You're Looking For? Search For A Service Above Now!</h2>
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <h3>Connect with Us</h3>
+            <ul class="footer-links">
+                <li><a href="@Url.Action("AboutKSL", "Home")">About Us</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Contact Us</a></li>
+                <li><a href="@Url.Action("TermsAndConditions", "Home")">Terms And Conditions</a></li>
+            </ul>
+            <div class="social-icons">
+                <a href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                <a href="mailto:support@ghosthire.com"><i class="fa-solid fa-envelope"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>

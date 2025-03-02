@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "About KSL Company";
+}
+
+<!-- Navigation Bar -->
+<nav class="navbar">
+    <div class="nav-left">
+        <div class="logo">
+            <a href="@Url.Action("HomePage", "Home")">
+                <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+            </a>
+        </div>
+        <ul class="nav-links">
+            <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li>
+            <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li>
+            <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- About Section -->
+<div class="about-container">
+    <h1 class="about-title">About KSL Company</h1>
+    <p class="about-text">
+        KSL Company is dedicated to creating a fair and inclusive online marketplace for freelancers and clients.
+        Our platform is designed to eliminate biases, ensuring that opportunities are based solely on skills and expertise.
+    </p>
+    <p class="about-text">
+        Whether you’re a professional looking to showcase your talents or a client searching for quality services, our platform
+        provides a seamless and anonymous way to connect, collaborate, and achieve success.
+    </p>
+</div>
+
+<!-- Styling -->
+<link rel="stylesheet" href="/css/about.css">

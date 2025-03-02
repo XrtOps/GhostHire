@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|c:\\users\\lukas\\desktop\\ghosthire\\ghosthire\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|solutionrelative:views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|c:\\users\\lukas\\desktop\\ghosthire\\ghosthire\\wwwroot\\css\\shopstyling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|solutionrelative:wwwroot\\css\\shopstyling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|c:\\users\\lukas\\desktop\\ghosthire\\ghosthire\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|solutionrelative:views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|c:\\users\\lukas\\desktop\\ghosthire\\ghosthire\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E424D0-CA76-E572-4ED0-1F037547E8BC}|GhostHire.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shopstyling.css",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\wwwroot\\css\\shopstyling.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\shopstyling.css",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\wwwroot\\css\\shopstyling.css",
+              "RelativeToolTip": "wwwroot\\css\\shopstyling.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-13T22:18:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Home\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T22:07:39.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T21:59:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\GhostHire\\GhostHire\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:00:37.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
