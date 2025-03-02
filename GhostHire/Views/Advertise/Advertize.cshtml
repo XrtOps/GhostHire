@@ -29,55 +29,61 @@
 <h2 class="advertise-title">Advertise Your Services</h2>
 
 <form id="advertiseForm" asp-action="Advertize" asp-controller="Advertise" method="post" enctype="multipart/form-data">
-    <!-- Service Title -->
-    <div class="form-group">
-        <label for="Title">Service Title</label>
-        <input asp-for="Title" class="form-control stylish-input" required />
-    </div>
-
-    <!-- Service Description -->
-    <div class="form-group">
-        <label for="Description">Service Description</label>
-        <textarea asp-for="Description" class="form-control stylish-input" rows="4" required></textarea>
-    </div>
-
-    <!-- Price -->
-    <div class="form-group">
-        <label for="Price">Price ($)</label>
-        <input asp-for="Price" type="number" class="form-control stylish-input" required min="1" max="10000" />
-    </div>
-
-    <!-- Category Selection -->
-    <div class="form-group">
-        <label>Select at least one category:</label>
-        <div id="category-container">
-            @foreach (var category in new string[]
-            {
-            "Web Design", "Graphic Design", "Digital Marketing", "Writing & Translation", "Programming",
-            "Video & Animation", "Music & Audio", "Photography", "SEO Services", "Content Writing",
-            "Copywriting", "Illustration", "Virtual Assistant", "App Development", "UI/UX Design",
-            "Voiceover", "Translation Services", "E-commerce", "Business Consulting",
-            "Website Development", "Email Marketing", "Photo Editing", "3D Modeling", "Event Planning"
-            })
-            {
-                <label class="category-label">
-                    <input type="checkbox" name="Categories" value="@category" /> @category
-                </label>
-            }
+    <div asp-validation-summary="All" class="alert-danger">
+        <!-- Service Title -->
+        <div class="form-group">
+            <label for="Title">Service Title</label>
+            <input asp-for="Title" class="form-control stylish-input" />
+            <span asp-validation-for="Title" class="text-danger"></span>
         </div>
-        <span id="category-error" class="text-danger" style="display:none;">Please select at least one category.</span>
-    </div>
 
-    <!-- Photos Upload Section -->
-    <div class="form-group">
-        <label>Upload Photos (Min 1, Max 5):</label>
-        <input type="file" id="photoUpload" name="Photos" multiple accept="image/*" class="form-control stylish-input" onchange="updateFileList()" />
-        <ul id="photoList" class="photo-list"></ul>
-        <span id="photo-error" class="text-danger" style="display:none;">Please upload at least one photo.</span>
-    </div>
+        <!-- Service Description -->
+        <div class="form-group">
+            <label for="Description">Service Description</label>
+            <textarea asp-for="Description" class="form-control stylish-input" rows="4" ></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
 
-    <!-- Submit Button -->
-    <button type="submit" class="btn-submit">Submit</button>
+        <!-- Price -->
+        <div class="form-group">
+            <label for="Price">Price ($)</label>
+            <input asp-for="Price" type="number" class="form-control stylish-input" min="1" max="10000" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <!-- Category Selection -->
+        <div class="form-group">
+            <label>Select at least one category:</label>
+            <div id="category-container">
+                @foreach (var category in new string[]
+                {
+                "Web Design", "Graphic Design", "Digital Marketing", "Writing & Translation", "Programming",
+                "Video & Animation", "Music & Audio", "Photography", "SEO Services", "Content Writing",
+                "Copywriting", "Illustration", "Virtual Assistant", "App Development", "UI/UX Design",
+                "Voiceover", "Translation Services", "E-commerce", "Business Consulting",
+                "Website Development", "Email Marketing", "Photo Editing", "3D Modeling", "Event Planning"
+                })
+                {
+                    <label class="category-label">
+                        <input type="checkbox" name="Categories" value="@category" /> @category
+                    </label>
+                }
+            </div>
+            <span id="category-error" class="text-danger" style="display:none;">Please select at least one category.</span>
+        </div>
+
+        <!-- Photos Upload Section -->
+        <div class="form-group">
+            <label>Upload Photos (Min 1, Max 5):</label>
+            <input type="file" id="photoUpload" name="Photos" multiple accept="image/*" class="form-control stylish-input" onchange="updateFileList()" />
+            <ul id="photoList" class="photo-list"></ul>
+            <span id="photo-error" class="text-danger" style="display:none;">Please upload at least one photo.</span>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn-submit">Submit</button>
+    </div>
+   
 </form>
 
 
