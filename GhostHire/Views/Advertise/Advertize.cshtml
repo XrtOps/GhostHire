@@ -1,0 +1,318 @@
+﻿@model GhostHire.Models.ServiceModel
+@{
+    ViewData["Title"] = "Advertise Your Services";
+}
+
+<link rel="stylesheet" href="/css/advertise.css">
+
+<!-- Navigation Bar -->
+<nav class="navbar">
+    <div class="nav-left">
+        <!-- GhostHire Logo Redirects to Home -->
+        <div class="logo">
+            <a href="@Url.Action("HomePage", "Home")">
+                <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+            </a>
+        </div>
+
+        <!-- Navigation Links -->
+        <ul class="nav-links">
+            <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li> <!--This is where all listings will show-->
+            <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li> <!--This is where users will post an ad-->
+            <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<h2 class="advertise-title">Advertise Your Services</h2>
+
+<form id="advertiseForm" asp-action="Advertize" asp-controller="Advertise" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="alert-danger">
+        <!-- Service Title -->
+        <div class="form-group">
+            <label for="Title">Service Title</label>
+            <input asp-for="Title" class="form-control stylish-input" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <!-- Service Description -->
+        <div class="form-group">
+            <label for="Description">Service Description</label>
+            <textarea asp-for="Description" class="form-control stylish-input" rows="4" ></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <!-- Price -->
+        <div class="form-group">
+            <label for="Price">Price ($)</label>
+            <input asp-for="Price" type="number" class="form-control stylish-input" min="1" max="10000" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+       
+        <!-- Category Selection -->
+        <div class="form-group">
+            <label>Select at least one category:</label>
+            <div id="category-container">
+                @foreach (var category in new string[]
+                {
+                "Web Design", "Graphic Design", "Digital Marketing", "Writing & Translation", "Programming",
+                "Video & Animation", "Music & Audio", "Photography", "SEO Services", "Content Writing",
+                "Copywriting", "Illustration", "Virtual Assistant", "App Development", "UI/UX Design",
+                "Voiceover", "Translation Services", "E-commerce", "Business Consulting",
+                "Website Development", "Email Marketing", "Photo Editing", "3D Modeling", "Event Planning"
+                })
+                {
+                    <label class="category-label">
+                        <input type="checkbox" name="Categories" value="@category" class="category-checkbox" />
+                        <a href="@Url.Action("Index", "Sell", new { category = category })">@category</a>
+                    </label>
+                }
+            </div>
+        </div>
+
+
+        <!-- Photos Upload Section -->
+        <div class="form-group">
+            <label>Upload Photos (Min 1, Max 5):</label>
+            <input type="file" id="photoUpload" name="Photos" multiple accept="image/*" class="form-control stylish-input" onchange="updateFileList()" />
+            <ul id="photoList" class="photo-list"></ul>
+            <span id="photo-error" class="text-danger" style="display:none;">Please upload at least one photo.</span>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn-submit">Submit</button>
+    </div>
+   
+</form>
+
+
+<style>
+    /* Navbar Styling */
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start; /* Aligns items to the left */
+        width: 100%;
+        height: 60px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: rgba(255, 255, 255, 0.9); /* Transparent white */
+        padding: 0 20px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+
+    /* Navbar Left Section (Logo + Links) */
+    .nav-left {
+        display: flex;
+        align-items: center;
+    }
+
+    .logo img {
+        height: 65px; /* Logo slightly larger */
+        width: auto;
+    }
+
+    /* Navbar Links Container */
+    .nav-links {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        list-style: none;
+        padding-left: 15px;
+        position: absolute; /* Using absolute positioning */
+        left: 50%; /* Centers it horizontally */
+        transform: translateX(-50%); /* Offset to exactly center */
+        top: 50%; /* Move to the middle vertically */
+        transform: translate(-50%, -50%); /* Final centering */
+    }
+
+        .nav-links li a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+            .nav-links li a:hover {
+                color: #19dafa;
+            }
+
+    /* Centered Title */
+    .advertise-title {
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        color: #003366;
+        margin-top: 80px; /* Adjusted to account for navbar */
+    }
+
+    /* Form Styling */
+    form {
+        max-width: 900px; /* Increased width */
+        margin: 0 auto;
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Form Labels */
+    .form-group label {
+        font-size: 18px; /* Larger font */
+        font-weight: bold;
+        color: #136d25; /* Dark green */
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    /* Input & Textarea Styling */
+    .stylish-input {
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 14px; /* Smaller text */
+        border: 1px solid #ccc;
+    }
+
+    /* Submit Button */
+    .btn-submit {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        background-color: #003366;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .btn-submit:hover {
+            background-color: #0055b3;
+        }
+
+    /* Improved Category Section */
+    #category-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Organizes into 3 columns */
+        gap: 5px; /* Reducing space slightly */
+        padding: 10px;
+        background: #f8f8f8; /* Light background */
+        border-radius: 8px;
+        border: 1px solid #ccc;
+    }
+
+    /* Category Labels */
+    .category-label {
+        display: flex;
+        align-items: center;
+        font-size: 14px; /* Smaller text */
+        background: #e9f5e9; /* Soft green */
+        padding: 6px;
+        border-radius: 5px;
+        transition: background 0.3s;
+    }
+
+        .category-label:hover {
+            background: #c1e5c1; /* Slightly darker on hover */
+        }
+
+        /* Checkbox Enhancements */
+        .category-label input[type="checkbox"] {
+            margin-right: 6px;
+        }
+
+            /* Selected Checkbox Highlight */
+            .category-label input[type="checkbox"]:checked + span {
+                font-weight: bold;
+                color: #136d25; /* Dark green */
+            }
+
+    /* File Upload Section */
+    .photo-list {
+        list-style: none;
+        padding: 0;
+        margin-top: 10px;
+    }
+
+    .photo-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: #f8f8f8;
+        padding: 6px;
+        border-radius: 5px;
+        margin-bottom: 5px;
+    }
+
+    .remove-photo {
+        background: none;
+        border: none;
+        font-size: 18px;
+        font-weight: bold;
+        color: red;
+        cursor: pointer;
+        padding: 0;
+    }
+
+        .remove-photo:hover {
+            color: darkred;
+        }
+</style>
+
+<!-- JavaScript -->
+<script>
+        let uploadedFiles = [];
+
+    function updateFileList() {
+        let fileInput = document.getElementById("photoUpload");
+        let fileList = document.getElementById("photoList");
+        let newFiles = Array.from(fileInput.files);
+
+        // Check if total files exceed 5
+        if (uploadedFiles.length + newFiles.length > 5) {
+            alert("You can only upload up to 5 photos.");
+            return;
+        }
+
+        // Add new files to the array while avoiding duplicates
+        newFiles.forEach(file => {
+            if (!uploadedFiles.some(existingFile => existingFile.name === file.name)) {
+                uploadedFiles.push(file);
+            }
+        });
+
+        // Reset input field to allow selecting the same file again
+        fileInput.value = "";
+
+        // Re-render file list
+        renderFileList();
+    }
+
+    function renderFileList() {
+        let fileList = document.getElementById("photoList");
+        fileList.innerHTML = ""; // Clear previous display
+
+        uploadedFiles.forEach((file, index) => {
+            let listItem = document.createElement("li");
+            listItem.classList.add("photo-item");
+
+            listItem.innerHTML = `
+                <img src="/assets/images/image-icon.png" width="20"> ${file.name}
+                <button type="button" class="remove-photo" onclick="removePhoto(${index})">✖</button>
+            `;
+
+            fileList.appendChild(listItem);
+        });
+    }
+
+    function removePhoto(index) {
+        uploadedFiles.splice(index, 1); // Remove file from array
+        renderFileList(); // Refresh UI
+    }
+
+</script>

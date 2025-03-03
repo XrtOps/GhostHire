@@ -1,0 +1,18 @@
+﻿@model GhostHire.Models.ServiceModel
+
+
+@{
+    ViewData["Title"] = "Hire Service";
+}
+
+<h2>Confirm Your Hiring</h2>
+
+<div class="service-card">
+    <h3>@Model.Title</h3>
+    <p>@Model.Description</p>
+    <p><strong>Price:</strong> $@Model.Price</p>
+    <form method="post" action="@Url.Action("ConfirmHire", "Sell")">
+        <input type="hidden" name="serviceId" value="@Model.Id" />
+        <button type="submit" class="btn btn-success">Confirm Hire</button>
+    </form>
+</div>

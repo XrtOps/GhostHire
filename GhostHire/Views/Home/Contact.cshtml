@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Contact Us";
+}
+
+<!-- Link to External Stylesheet -->
+<link rel="stylesheet" href="/css/contact.css">
+
+<!-- Navigation Bar -->
+<nav class="navbar">
+    <div class="nav-left">
+        <!-- GhostHire Logo Redirects to Home -->
+        <div class="logo">
+            <a href="@Url.Action("HomePage", "Home")">
+                <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+            </a>
+        </div>
+
+        <!-- Navigation Links -->
+        <ul class="nav-links">
+            <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li>
+            <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li>
+            <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="contact-container">
+    <h2 class="contact-title">Contact Us</h2>
+
+    <div class="contact-info">
+        <p><strong>Phone:</strong> (222) 444-2424</p>
+        <p><strong>Email:</strong> support@ghosthire.com</p>
+        <p><strong>Address:</strong> 48 King St E, Kitchener, ON</p>
+    </div>
+
+    <div class="contact-form">
+        <label for="message">Send Us a Message:</label>
+        <textarea id="message" rows="5" placeholder="Type your message here..."></textarea>
+        <button type="submit" onclick="submitMessage()">Submit</button>
+        <p id="success-message" class="hidden">Thank you! Your message has been sent.</p>
+    </div>
+
+    <!-- TODO: Implement backend functionality to process form submission -->
+</div>
+
+<!-- JavaScript -->
+<script>
+    function submitMessage() {
+        // Placeholder functionality for now
+        document.getElementById("success-message").classList.remove("hidden");
+    }
+</script>

@@ -1,0 +1,366 @@
+﻿/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: white;
+    transition: background-color 0.3s ease;
+}
+
+    /* Light Mode Styling */
+    body.light-mode {
+        background-color: #100e0e;
+    }
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Aligns items to the left */
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.9); /* Transparent white */
+    padding: 0 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+/* Navbar Left Section (Logo + Links) */
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 60px; /* Logo size increased */
+    width: auto;
+}
+
+/* Navbar Links Container */
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    padding-left: 15px;
+    position: absolute; /* Using absolute positioning */
+    left: 50%; /* Centers it horizontally */
+    transform: translateX(-50%); /* Offset to exactly center */
+    top: 50%; /* Move to the middle vertically */
+    transform: translate(-50%, -50%); /* Final centering */
+}
+
+/* Align Logo to the left side */
+.nav-left {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+    .nav-links li a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+        .nav-links li a:hover {
+            color: #19dafa;
+        }
+
+/* Move Light/Dark Mode Switch to the Right */
+.switch-container {
+    margin-left: auto;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+
+/* Hero Section (Locked Under Navbar) */
+.hero {
+    width: 100%;
+    margin-top: 60px; /* Locks it right below navbar */
+    text-align: center;
+    padding: 80px 20px;
+}
+
+    .hero h1 {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #1e3c72;
+    }
+
+    .hero .highlight {
+        font-style: italic;
+        color: rgb(116, 6, 6)
+    }
+
+
+/* Search Bar */
+.search-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar {
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    border: 1.5px solid #2b2c37;
+    border-radius: 12px;
+    outline: none;
+    color: #bdbecb;
+}
+
+    .search-bar::placeholder {
+        color: #bdbecb;
+    }
+
+/* Search Button */
+.search-btn {
+    background: #1dbf73;
+    border: none;
+    width: 40px; /* Set a fixed width */
+    height: 40px; /* Set a fixed height to make it a circle */
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Freelance Categories Section */
+.categories {
+    margin-top: 40px; /* Adds space between the search bar and categories */
+    text-align: center;
+}
+
+    .categories h2 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: black;
+        margin-bottom: 20px;
+    }
+
+.categories-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.category {
+    text-decoration: none;
+    background-color: #1e3c72; /* Darker blue */
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    max-width: 200px;
+    text-align: center;
+}
+
+    .category:hover {
+        background-color: #163a55; /* Slightly darker shade on hover */
+    }
+
+
+/* Footer Styling */
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+/* Footer Links */
+.footer-links {
+    list-style: none;
+    padding: 10px;
+}
+
+    .footer-links li {
+        display: inline;
+        margin: 0 10px;
+    }
+
+        .footer-links li a {
+            text-decoration: none;
+            color: white;
+            font-size: 14px;
+        }
+
+            .footer-links li a:hover {
+                color: #19dafa;
+            }
+
+/* Social Icons */
+.social-icons {
+    margin-top: 10px;
+}
+
+    .social-icons a {
+        margin: 0 5px;
+        color: white;
+        font-size: 20px;
+        transition: color 0.3s ease;
+    }
+
+        .social-icons a:hover {
+            color: #19dafa;
+        }
+
+/* Particles Background */
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Make sure particles are behind everything else */
+}
+
+/* Light/Dark Mode Switch */
+.switch {
+    position: relative;
+    display: flex;
+    width: 60px;
+    height: 34px;
+    align-items: center;
+}
+
+/* Switch Container */
+.switch-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    margin-left: auto;
+}
+
+/* Hidden Input */
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* Switch Slider */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2196f3;
+    transition: 0.4s;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.sun-moon {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: yellow;
+    transition: 0.4s;
+}
+
+input:checked + .slider {
+    background-color: black;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider .sun-moon {
+    transform: translateX(26px);
+    background-color: white;
+    animation: rotate-center 0.6s ease-in-out both;
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+    .slider.round .sun-moon {
+        border-radius: 50%;
+    }
+
+/* Moon Dots */
+.moon-dot {
+    opacity: 0;
+    transition: 0.4s;
+    fill: gray;
+}
+
+input:checked + .slider .sun-moon .moon-dot {
+    opacity: 1;
+}
+
+/* Light Rays */
+#light-ray-1,
+#light-ray-2,
+#light-ray-3 {
+    position: absolute;
+    fill: white;
+    opacity: 10%;
+}
+
+/* Stars */
+.stars {
+    transform: translateY(-32px);
+    opacity: 0;
+    transition: 0.4s;
+}
+
+.star {
+    fill: white;
+    position: absolute;
+    transition: 0.4s;
+    animation: star-twinkle 2s infinite;
+}
+
+input:checked + .slider .stars {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+@keyframes star-twinkle {
+    0% {
+        transform: scale(1);
+    }
+
+    40% {
+        transform: scale(1.2);
+    }
+
+    80% {
+        transform: scale(0.8);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

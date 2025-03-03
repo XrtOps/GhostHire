@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\controllers\\advertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\views\\sell\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\views\\sell\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\controllers\\sellcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\controllers\\sellcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\views\\sell\\hire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\views\\sell\\hire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|c:\\users\\kyle\\desktop\\new folder (2)\\ghosthire-main\\ghosthire-main\\ghosthire\\views\\advertise\\advertize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\views\\advertise\\advertize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GhostHire\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GhostHire\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:56:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hire.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Sell\\Hire.cshtml",
+              "RelativeDocumentMoniker": "GhostHire\\Views\\Sell\\Hire.cshtml",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Sell\\Hire.cshtml",
+              "RelativeToolTip": "GhostHire\\Views\\Sell\\Hire.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T20:46:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellControler.cs",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\SellControler.cs",
+              "RelativeDocumentMoniker": "GhostHire\\Controllers\\SellControler.cs",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\SellControler.cs",
+              "RelativeToolTip": "GhostHire\\Controllers\\SellControler.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:32:18.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Sell\\Index.cshtml",
+              "RelativeDocumentMoniker": "GhostHire\\Views\\Sell\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Sell\\Index.cshtml*",
+              "RelativeToolTip": "GhostHire\\Views\\Sell\\Index.cshtml*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T20:32:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvertiseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\AdvertiseController.cs",
+              "RelativeDocumentMoniker": "GhostHire\\Controllers\\AdvertiseController.cs",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Controllers\\AdvertiseController.cs",
+              "RelativeToolTip": "GhostHire\\Controllers\\AdvertiseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:30:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Advertize.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Advertise\\Advertize.cshtml",
+              "RelativeDocumentMoniker": "GhostHire\\Views\\Advertise\\Advertize.cshtml",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\New folder (2)\\GhostHire-main\\GhostHire-main\\GhostHire\\Views\\Advertise\\Advertize.cshtml",
+              "RelativeToolTip": "GhostHire\\Views\\Advertise\\Advertize.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T20:25:29.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
