@@ -40,7 +40,7 @@
         <!-- Service Description -->
         <div class="form-group">
             <label for="Description">Service Description</label>
-            <textarea asp-for="Description" class="form-control stylish-input" rows="4" ></textarea>
+            <textarea asp-for="Description" class="form-control stylish-input" rows="4"></textarea>
             <span asp-validation-for="Description" class="text-danger"></span>
         </div>
 
@@ -50,6 +50,7 @@
             <input asp-for="Price" type="number" class="form-control stylish-input" min="1" max="10000" />
             <span asp-validation-for="Price" class="text-danger"></span>
         </div>
+
 
         <!-- Category Selection -->
         <div class="form-group">
@@ -65,12 +66,13 @@
                 })
                 {
                     <label class="category-label">
-                        <input type="checkbox" name="Categories" value="@category" /> @category
+                        <input type="checkbox" name="Categories" value="@category" class="category-checkbox" />
+                        <a href="@Url.Action("Index", "Sell", new { category = category })">@category</a>
                     </label>
                 }
             </div>
-            <span id="category-error" class="text-danger" style="display:none;">Please select at least one category.</span>
         </div>
+
 
         <!-- Photos Upload Section -->
         <div class="form-group">
@@ -83,7 +85,7 @@
         <!-- Submit Button -->
         <button type="submit" class="btn-submit">Submit</button>
     </div>
-   
+
 </form>
 
 

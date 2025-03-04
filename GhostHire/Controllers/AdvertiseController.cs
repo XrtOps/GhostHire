@@ -46,7 +46,7 @@ namespace GhostHire.Controllers
         [HttpGet]
         public IActionResult AdvertizeConfirmation()
         {
-            return View(); 
+            return View();
         }
     }
 }
