@@ -92,6 +92,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-reboot.rtl.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\js\dashboardsite.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\css\all.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-utilities.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
@@ -137,6 +138,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-reboot.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\favicon.ico
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\css\dashboard.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-grid.css.map
@@ -289,6 +291,7 @@ wwwroot\css\about.css
 wwwroot\css\advertise.css
 wwwroot\css\backgroundswitch.css
 wwwroot\css\contact.css
+wwwroot\css\dashboard.css
 wwwroot\css\searchbar.css
 wwwroot\css\shopstyling.css
 wwwroot\css\site.css
@@ -337,6 +340,7 @@ wwwroot\font-awesome\webfonts\fa-solid-900.ttf
 wwwroot\font-awesome\webfonts\fa-solid-900.woff2
 wwwroot\font-awesome\webfonts\fa-v4compatibility.ttf
 wwwroot\font-awesome\webfonts\fa-v4compatibility.woff2
+wwwroot\js\dashboardsite.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

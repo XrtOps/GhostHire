@@ -577,6 +577,10 @@
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\searchbar.css",
       "PackagePath": "staticwebassets\\css\\searchbar.css"
     },
@@ -767,6 +771,10 @@
     {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
+      "PackagePath": "staticwebassets\\js\\dashboardsite.js"
     },
     {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\site.js",

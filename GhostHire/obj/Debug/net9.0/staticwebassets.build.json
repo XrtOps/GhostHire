@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qh8BtBCxF/G0YY1E1S8pOUWaRDS7cfpS3oKdQNn5rIc=",
+  "Hash": "G5iNSCNukgkMBRrqRaPSvGlMRFn6jZ4RK6zyihDqIxo=",
   "Source": "GhostHire",
   "BasePath": "_content/GhostHire",
   "Mode": "Default",
@@ -2033,6 +2033,27 @@
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lygxtbqmrz-gm3t60bxoo.gz",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "js/dashboardsite#[.{fingerprint=gm3t60bxoo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uu9mmzn0hs",
+      "Integrity": "Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js"
+    },
+    {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lzknnblko5-3mu0h9tx89.gz",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
@@ -2976,6 +2997,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "css/dashboard#[.{fingerprint=krahco4upz}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ydn7tgc66a",
+      "Integrity": "Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css"
     },
     {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xqob93peg4-xvp3kq03qx.gz",
@@ -6212,6 +6254,27 @@
       "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "css/dashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "krahco4upz",
+      "Integrity": "QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
+    },
+    {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\searchbar.css",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
@@ -7218,6 +7281,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "js/dashboardsite#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm3t60bxoo",
+      "Integrity": "mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dashboardsite.js"
     },
     {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\site.js",
@@ -30597,6 +30681,304 @@
       ]
     },
     {
+      "Route": "css/dashboard.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.krahco4upz.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krahco4upz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.krahco4upz.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krahco4upz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.krahco4upz.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krahco4upz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M="
+        }
+      ]
+    },
+    {
       "Route": "css/searchbar.css",
       "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\ft87ncuhtm-xch3lqmf7u.gz",
       "Selectors": [
@@ -31217,7 +31599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31270,7 +31652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31307,7 +31689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31354,7 +31736,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31415,7 +31797,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31460,7 +31842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 23:48:51 GMT"
+          "Value": "Tue, 04 Mar 2025 00:11:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43765,6 +44147,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-ndNz6e2XD37iN0bY4+PYqxFP3adEj59bPIoIanB6Clc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.gm3t60bxoo.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lygxtbqmrz-gm3t60bxoo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm3t60bxoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboardsite.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.gm3t60bxoo.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm3t60bxoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboardsite.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.gm3t60bxoo.js.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lygxtbqmrz-gm3t60bxoo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm3t60bxoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboardsite.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lygxtbqmrz-gm3t60bxoo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mG1CbUXwT9gyA/MT4QJ9BC01echo/bHcKr/Svft/Zk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboardsite.js.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\lygxtbqmrz-gm3t60bxoo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 00:39:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE="
         }
       ]
     },

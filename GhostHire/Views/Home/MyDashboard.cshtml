@@ -2,5 +2,44 @@
     ViewData["Title"] = "My Dashboard";
 }
 
-<h2>Your Dashboard</h2>
-<p>Manage your services, orders, and profile.</p>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="~/css/dashboard.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="@Url.Action("HomePage", "Home")">
+                    <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
+                </a>
+            </div>
+
+            <ul class="nav-links">
+                <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
+                <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li>
+                <li><a href="@Url.Action("Advertize", "Advertise")">Advertise Your Services</a></li>
+                <li><a href="@Url.Action("MyDashboard", "Home")">My Dashboard</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="dashboard">
+        <div class="header">
+            <h1>Dashboard</h1>
+        </div>
+        <div class="content">
+            <div class="card">
+                <h2>Sales Overview</h2>
+                <canvas id="salesChart"></canvas>
+            </div>
+            <div class="card">
+                <h2>Customer Satisfaction</h2>
+                <canvas id="satisfactionChart"></canvas>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="~/js/dashboardsite.js"></script>
+</body>
