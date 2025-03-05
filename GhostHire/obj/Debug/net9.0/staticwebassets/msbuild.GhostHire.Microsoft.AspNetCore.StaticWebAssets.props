@@ -2586,8 +2586,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>krahco4upz</Fingerprint>
-      <Integrity>QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=</Integrity>
+      <Fingerprint>ycrggqh1f6</Fingerprint>
+      <Integrity>gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashboard.css'))</OriginalItemSpec>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G5iNSCNukgkMBRrqRaPSvGlMRFn6jZ4RK6zyihDqIxo=",
+  "Hash": "xHX5HdoPtwizfA5zULDnxo1B6rH/mTQ7ulK6JESx61Y=",
   "Source": "GhostHire",
   "BasePath": "_content/GhostHire",
   "Mode": "Default",
@@ -2999,12 +2999,12 @@
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-ycrggqh1f6.gz",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GhostHire",
-      "RelativePath": "css/dashboard#[.{fingerprint=krahco4upz}]?.css.gz",
+      "RelativePath": "css/dashboard#[.{fingerprint=ycrggqh1f6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3013,8 +3013,8 @@
       "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ydn7tgc66a",
-      "Integrity": "Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=",
+      "Fingerprint": "fgfd671812",
+      "Integrity": "gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css"
@@ -6268,8 +6268,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "krahco4upz",
-      "Integrity": "QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=",
+      "Fingerprint": "ycrggqh1f6",
+      "Integrity": "gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
@@ -30682,12 +30682,12 @@
     },
     {
       "Route": "css/dashboard.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-ycrggqh1f6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001358695652"
+          "Quality": "0.001322751323"
         }
       ],
       "ResponseHeaders": [
@@ -30697,15 +30697,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "735"
+          "Value": "755"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+          "Value": "\"gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30725,13 +30725,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+          "Value": "W/\"gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+          "Value": "sha256-gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90="
         }
       ]
     },
@@ -30746,7 +30746,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1867"
+          "Value": "1920"
         },
         {
           "Name": "Content-Type",
@@ -30754,11 +30754,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+          "Value": "\"gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30768,13 +30768,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+          "Value": "sha256-gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90="
         }
       ]
     },
     {
       "Route": "css/dashboard.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-ycrggqh1f6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30783,7 +30783,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "735"
+          "Value": "755"
         },
         {
           "Name": "Content-Type",
@@ -30791,11 +30791,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+          "Value": "\"gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30813,18 +30813,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M="
+          "Value": "sha256-gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc="
         }
       ]
     },
     {
-      "Route": "css/dashboard.krahco4upz.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Route": "css/dashboard.ycrggqh1f6.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-ycrggqh1f6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001358695652"
+          "Quality": "0.001322751323"
         }
       ],
       "ResponseHeaders": [
@@ -30834,15 +30834,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "735"
+          "Value": "755"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+          "Value": "\"gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30862,13 +30862,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+          "Value": "W/\"gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krahco4upz"
+          "Value": "ycrggqh1f6"
         },
         {
           "Name": "label",
@@ -30876,12 +30876,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+          "Value": "sha256-gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90="
         }
       ]
     },
     {
-      "Route": "css/dashboard.krahco4upz.css",
+      "Route": "css/dashboard.ycrggqh1f6.css",
       "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -30891,7 +30891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1867"
+          "Value": "1920"
         },
         {
           "Name": "Content-Type",
@@ -30899,11 +30899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk=\""
+          "Value": "\"gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30913,7 +30913,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krahco4upz"
+          "Value": "ycrggqh1f6"
         },
         {
           "Name": "label",
@@ -30921,13 +30921,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QAMk062zgneJ8G3vwegyDDBloKz0v9cj1GfmiayWwkk="
+          "Value": "sha256-gvbvt7rqRSIwlw8JB+AFJA1s6rtlKxbM/ykjLRMiv90="
         }
       ]
     },
     {
-      "Route": "css/dashboard.krahco4upz.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-krahco4upz.gz",
+      "Route": "css/dashboard.ycrggqh1f6.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\xdienuttsu-ycrggqh1f6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -30936,7 +30936,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "735"
+          "Value": "755"
         },
         {
           "Name": "Content-Type",
@@ -30944,11 +30944,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M=\""
+          "Value": "\"gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 00:41:55 GMT"
+          "Value": "Wed, 05 Mar 2025 15:00:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30966,7 +30966,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krahco4upz"
+          "Value": "ycrggqh1f6"
         },
         {
           "Name": "label",
@@ -30974,7 +30974,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ji+PO/O0sU02O2G3KWrHOvK/En5wl4gJTMcpwFNyW4M="
+          "Value": "sha256-gR4I7W5y1LD4mABm1Wx84u1U28lifSoBVoG6GTzzKSc="
         }
       ]
     },
