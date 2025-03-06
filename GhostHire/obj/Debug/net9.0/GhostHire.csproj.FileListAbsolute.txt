@@ -771,3 +771,5 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Deb
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\vfplfy2zml-npb8amho22.gz
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\lygxtbqmrz-gm3t60bxoo.gz
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\xdienuttsu-ycrggqh1f6.gz
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\qri69ro6ex-qt7dm2rqtp.gz
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\7xtcr300zh-rkw4rqa2xi.gz

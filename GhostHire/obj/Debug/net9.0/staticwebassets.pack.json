@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\image-icon.png"
     },
     {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\unknownprofile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\unknownprofile.jpg"
+    },
+    {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\verified.gif",
       "PackagePath": "staticwebassets\\assets\\images\\verified.gif"
     },
@@ -589,6 +593,10 @@
       "PackagePath": "staticwebassets\\css\\shopstyling.css"
     },
     {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css",
+      "PackagePath": "staticwebassets\\css\\sign_login_page.css"
+    },
+    {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -775,6 +783,10 @@
     {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\dashboardsite.js",
       "PackagePath": "staticwebassets\\js\\dashboardsite.js"
+    },
+    {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js",
+      "PackagePath": "staticwebassets\\js\\sign-login.js"
     },
     {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\site.js",

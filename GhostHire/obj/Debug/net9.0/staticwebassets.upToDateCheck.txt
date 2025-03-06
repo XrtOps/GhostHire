@@ -31,6 +31,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.bundle.js.map
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\js\conflict-detection.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\jquery\dist\jquery.min.map
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\js\sign-login.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\css\about.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.bundle.min.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.min.js.map
@@ -106,6 +107,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-utilities.rtl.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-reboot.css.map
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-utilities.rtl.css
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\css\sign_login_page.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\css\regular.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
@@ -150,6 +152,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap.min.css
 wwwroot\assets\images\GhostHireLogo.png
 wwwroot\assets\images\image-icon.png
+wwwroot\assets\images\unknownprofile.jpg
 wwwroot\assets\images\verified.gif
 wwwroot\bootstrap\css\bootstrap.css
 wwwroot\bootstrap\css\bootstrap.css.map
@@ -294,6 +297,7 @@ wwwroot\css\contact.css
 wwwroot\css\dashboard.css
 wwwroot\css\searchbar.css
 wwwroot\css\shopstyling.css
+wwwroot\css\sign_login_page.css
 wwwroot\css\site.css
 wwwroot\css\terms.css
 wwwroot\favicon.ico
@@ -341,6 +345,7 @@ wwwroot\font-awesome\webfonts\fa-solid-900.woff2
 wwwroot\font-awesome\webfonts\fa-v4compatibility.ttf
 wwwroot\font-awesome\webfonts\fa-v4compatibility.woff2
 wwwroot\js\dashboardsite.js
+wwwroot\js\sign-login.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

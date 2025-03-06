@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xHX5HdoPtwizfA5zULDnxo1B6rH/mTQ7ulK6JESx61Y=",
+  "Hash": "PL7QXX7mJ5hfbi12JJ+i6khOP2ejxQ+SysVSH7WHLUI=",
   "Source": "GhostHire",
   "BasePath": "_content/GhostHire",
   "Mode": "Default",
@@ -750,6 +750,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\7xtcr300zh-rkw4rqa2xi.gz",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "js/sign-login#[.{fingerprint=rkw4rqa2xi}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q7hptwh86o",
+      "Integrity": "ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js"
     },
     {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\83i7dgd3u9-jgrndm2tqj.gz",
@@ -2327,6 +2348,27 @@
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\qri69ro6ex-qt7dm2rqtp.gz",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "css/sign_login_page#[.{fingerprint=qt7dm2rqtp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ppd4ooler4",
+      "Integrity": "bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css"
+    },
+    {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\r02mswm4m8-37l46l7i6j.gz",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
@@ -3291,6 +3333,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\image-icon.png"
+    },
+    {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\unknownprofile.jpg",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "assets/images/unknownprofile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ns0tjxqyoe",
+      "Integrity": "R+AGpJKiN5IMmtxSnP1sgQS/Slgd4uh8ih+LOqVd5/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\unknownprofile.jpg"
     },
     {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\verified.gif",
@@ -6317,6 +6380,27 @@
       "OriginalItemSpec": "wwwroot\\css\\shopstyling.css"
     },
     {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "css/sign_login_page#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qt7dm2rqtp",
+      "Integrity": "Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sign_login_page.css"
+    },
+    {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\site.css",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
@@ -7302,6 +7386,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\dashboardsite.js"
+    },
+    {
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js",
+      "SourceId": "GhostHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\",
+      "BasePath": "_content/GhostHire",
+      "RelativePath": "js/sign-login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkw4rqa2xi",
+      "Integrity": "60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sign-login.js"
     },
     {
       "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\site.js",
@@ -8747,6 +8852,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-4w/LT1mvz3h5t2oRHUnOqRuCkiAGi/yHkw7Uovd1XjY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/unknownprofile.jpg",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\unknownprofile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R+AGpJKiN5IMmtxSnP1sgQS/Slgd4uh8ih+LOqVd5/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 06:53:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R+AGpJKiN5IMmtxSnP1sgQS/Slgd4uh8ih+LOqVd5/k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/unknownprofile.ns0tjxqyoe.jpg",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\assets\\images\\unknownprofile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R+AGpJKiN5IMmtxSnP1sgQS/Slgd4uh8ih+LOqVd5/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 06:53:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ns0tjxqyoe"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/unknownprofile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R+AGpJKiN5IMmtxSnP1sgQS/Slgd4uh8ih+LOqVd5/k="
         }
       ]
     },
@@ -31575,6 +31762,304 @@
       ]
     },
     {
+      "Route": "css/sign_login_page.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\qri69ro6ex-qt7dm2rqtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002754820937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U="
+        }
+      ]
+    },
+    {
+      "Route": "css/sign_login_page.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U="
+        }
+      ]
+    },
+    {
+      "Route": "css/sign_login_page.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\qri69ro6ex-qt7dm2rqtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sign_login_page.qt7dm2rqtp.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\qri69ro6ex-qt7dm2rqtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002754820937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qt7dm2rqtp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sign_login_page.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U="
+        }
+      ]
+    },
+    {
+      "Route": "css/sign_login_page.qt7dm2rqtp.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\sign_login_page.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qt7dm2rqtp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sign_login_page.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iknj1sDqq3L5EsyplsMZz9z3UC0qLEl0qumaaDOIC1U="
+        }
+      ]
+    },
+    {
+      "Route": "css/sign_login_page.qt7dm2rqtp.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\qri69ro6ex-qt7dm2rqtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qt7dm2rqtp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sign_login_page.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bWYIJ3y5cqtnzXVNwLw3FTbH7cKu7CdjrtadEv+oyuE="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-npb8amho22.gz",
       "Selectors": [
@@ -44445,6 +44930,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-Zo3jYyw9ZT9lmmYcUprrxOrE5zuYGJIqMV0NcxBkwAE="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\7xtcr300zh-rkw4rqa2xi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003154574132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.js.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\7xtcr300zh-rkw4rqa2xi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.rkw4rqa2xi.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\7xtcr300zh-rkw4rqa2xi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003154574132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkw4rqa2xi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sign-login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.rkw4rqa2xi.js",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\js\\sign-login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkw4rqa2xi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sign-login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-60AY+RrFFqATFmyg/PSiJ6ShS2/CHMY0u6dupSzYKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sign-login.rkw4rqa2xi.js.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\7xtcr300zh-rkw4rqa2xi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkw4rqa2xi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sign-login.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvCF9ebMJK4/IKUsi1tgMzd9n8tXOx6ERWij9VGVg8Q="
         }
       ]
     },

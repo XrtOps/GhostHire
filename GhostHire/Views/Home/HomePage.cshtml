@@ -6,8 +6,10 @@
     <link rel="stylesheet" href="~/css/site.css">
     <link rel="stylesheet" href="~/css/searchbar.css">
     <link rel="stylesheet" href="~/css/backgroundswitch.css">
+    <link rel="stylesheet" href="~/css/sign_login_page.css" />
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="~/js/site.js"></script>
+    <script src="~/js/sign-login.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <title>GhostHire</title>
 </head>
@@ -35,6 +37,8 @@
                 <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
             </ul>
 
+            
+
             <!-- Light/Dark Mode Switch -->
             <div class="switch-container">
                 <label class="switch">
@@ -56,6 +60,14 @@
                         </div>
                     </div>
                 </label>
+            </div>
+            <!--Login/Sign Page-->
+            <div class="profile-container">
+                <img src="/assets/images/unknownprofile.jpg" class="profile" id="profilePic" />
+                <div class="drop-down" id="dropDownContent">
+                    <a href="#">Sign In</a>
+                    <a href="#">Login</a>
+                </div>
             </div>
         </div>
     </nav>
