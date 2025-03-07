@@ -585,6 +585,10 @@
       "PackagePath": "staticwebassets\\css\\dashboard.css"
     },
     {
+      "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\loginauthentication.css",
+      "PackagePath": "staticwebassets\\css\\loginauthentication.css"
+    },
+    {
       "Id": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\searchbar.css",
       "PackagePath": "staticwebassets\\css\\searchbar.css"
     },

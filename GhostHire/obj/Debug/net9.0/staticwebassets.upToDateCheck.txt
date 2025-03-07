@@ -123,6 +123,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\css\fontawesome.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\js\brands.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\css\all.min.css
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\css\loginauthentication.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-utilities.css.map
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap-reboot.rtl.min.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\js\conflict-detection.min.js
@@ -295,6 +296,7 @@ wwwroot\css\advertise.css
 wwwroot\css\backgroundswitch.css
 wwwroot\css\contact.css
 wwwroot\css\dashboard.css
+wwwroot\css\loginauthentication.css
 wwwroot\css\searchbar.css
 wwwroot\css\shopstyling.css
 wwwroot\css\sign_login_page.css
