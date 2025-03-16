@@ -126,8 +126,7 @@
               "RelativeToolTip": "GhostHire\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T02:46:39.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T02:46:39.669Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "GhostHire\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T02:46:35.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T02:46:35.865Z"
             },
             {
               "$type": "Document",
@@ -152,8 +150,7 @@
               "RelativeToolTip": "GhostHire\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T23:03:10.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T23:03:10.203Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "GhostHire\\Views\\Account\\SignUpPage.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T22:21:20.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:21:20.793Z"
             },
             {
               "$type": "Document",
@@ -190,8 +186,7 @@
               "RelativeToolTip": "GhostHire\\Views\\Account\\LoginPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T22:21:06.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:21:06.687Z"
             },
             {
               "$type": "Document",
@@ -324,8 +319,7 @@
               "RelativeToolTip": "GhostHire\\Views\\Sell\\Hire.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T23:27:33.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T23:27:33.974Z"
             },
             {
               "$type": "Document",
@@ -373,8 +367,7 @@
               "RelativeToolTip": "GhostHire\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T02:36:55.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:36:55.336Z"
             },
             {
               "$type": "Document",
@@ -386,8 +379,7 @@
               "RelativeToolTip": "GhostHire\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T02:35:03.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:35:03.258Z"
             }
           ]
         }
