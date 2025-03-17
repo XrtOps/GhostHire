@@ -12,7 +12,7 @@ builder.Services.AddAuthorization();
 
 // TODO: Replace with real database when ready
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseInMemoryDatabase("GhostHireDB"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("GhostHireDBContext")));
 
 var app = builder.Build();
 

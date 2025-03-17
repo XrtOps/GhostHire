@@ -18,7 +18,7 @@ namespace GhostHire.Models
 
         [Required(ErrorMessage = "Enter your price!")]
         [Range(1, 10000, ErrorMessage = "Price must be between $1 and $10,000.")]
-        public decimal Price { get; set; }
+        public float Price { get; set; }
 
         [Required(ErrorMessage = "Select the following categories!")]
         public string? Categories { get; set; }
