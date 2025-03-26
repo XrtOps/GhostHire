@@ -1,4 +1,4 @@
-﻿
+﻿@model Authentication
 @{
     ViewData["title"] = "SignUpPage";
 }
@@ -26,14 +26,14 @@
 					<div class="row">
 						<form asp-action="SignUpPage" control="" class="form-group">
 							<div class="row">
-								<input type="text" name="username" id="username" class="form__input" placeholder="Username">
+								<input type="text" asp-for="Username" name="username" id="username" class="form__input" placeholder="Username">
 							</div>
 							<div class="row">
 								<!-- <span class="fa fa-lock"></span> -->
-								<input type="password" name="password" id="password" class="form__input" placeholder="Password">
+								<input type="password" asp-for="Password" name="password" id="password" class="form__input" placeholder="Password">
 							</div>
 							<div class="row">
-								<input type="password" name="password" id="password" class="form__input" placeholder="ConfirmPassword" />
+								<input type="password" asp-for="PasswordConfirmation" name="password" id="password" class="form__input" placeholder="ConfirmPassword" />
 							</div>
 							<div class="row">
 								<input type="submit" value="Submit" class="btn">

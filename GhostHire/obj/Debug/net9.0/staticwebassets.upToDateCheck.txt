@@ -31,6 +31,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.bundle.js.map
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\font-awesome\js\conflict-detection.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\jquery\dist\jquery.min.map
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\assets\images\favicon.ico
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\js\sign-login.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\css\about.css
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.bundle.min.js
@@ -151,6 +152,7 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\js\bootstrap.bundle.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\lib\jquery\dist\jquery.js
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\wwwroot\bootstrap\css\bootstrap.min.css
+wwwroot\assets\images\favicon.ico
 wwwroot\assets\images\GhostHireLogo.png
 wwwroot\assets\images\image-icon.png
 wwwroot\assets\images\unknownprofile.jpg

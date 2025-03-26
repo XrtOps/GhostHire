@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GhostHire.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250317153856_Initial")]
+    [Migration("20250326213123_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -23,6 +23,40 @@ namespace GhostHire.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("GhostHire.Models.Authentication", b =>
+                {
+                    b.Property<int>("AuthenticationID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AuthenticationID"));
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PasswordConfirmation")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("AuthenticationID");
+
+                    b.ToTable("authentications");
+
+                    b.HasData(
+                        new
+                        {
+                            AuthenticationID = 1,
+                            Password = "ghostHire",
+                            PasswordConfirmation = "ghostHire",
+                            Username = "ghostHire"
+                        });
+                });
 
             modelBuilder.Entity("GhostHire.Models.ServiceModel", b =>
                 {

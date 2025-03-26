@@ -893,3 +893,4 @@ D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\bin\Deb
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\bin\Debug\net9.0\System.Formats.Asn1.dll
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\bin\Debug\net9.0\System.Text.Json.dll
 D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\vfplfy2zml-g8xv68f8jr.gz
+D:\ConestogaSchool\Sem4\GhostHire(Current)\GhostHire\GhostHire\GhostHire\obj\Debug\net9.0\compressed\7xlnswkucb-eeqdaf73x7.gz

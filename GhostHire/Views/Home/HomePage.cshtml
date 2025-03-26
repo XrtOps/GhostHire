@@ -1,4 +1,5 @@
-﻿@{
+﻿@model Authentication
+@{
     ViewData["Title"] = "Home";
 }
 
@@ -12,6 +13,7 @@
     <script src="~/js/sign-login.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <title>GhostHire</title>
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico" />
 </head>
 
 <body>
@@ -37,7 +39,7 @@
                 <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
             </ul>
 
-            
+
 
             <!-- Light/Dark Mode Switch -->
             <div class="switch-container">
@@ -65,8 +67,16 @@
             <div class="profile-container">
                 <img src="/assets/images/unknownprofile.jpg" class="profile" id="profilePic" />
                 <div class="drop-down" id="dropDownContent">
-                    <a asp-controller="Account" asp-action="SignUpPage">Sign In</a>
-                    <a asp-controller="Account" asp-action="LoginPage">Login</a>
+                    @{
+                        var user = Context.Session.GetString("Username");
+                    }
+                    @if(!string.IsNullOrEmpty(user)) {
+                        <span>Welcome, @user</span>
+                        <a asp-controller="Account" asp-action="Logout">Sign Out</a>
+                    } else {
+                        <a asp-controller="Account" asp-action="SignUpPage">Sign In</a>
+                        <a asp-controller="Account" asp-action="LoginPage">Log In</a>
+                    }
                 </div>
             </div>
         </div>

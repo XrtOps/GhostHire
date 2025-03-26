@@ -21,6 +21,40 @@ namespace GhostHire.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("GhostHire.Models.Authentication", b =>
+                {
+                    b.Property<int>("AuthenticationID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AuthenticationID"));
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PasswordConfirmation")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("AuthenticationID");
+
+                    b.ToTable("authentications");
+
+                    b.HasData(
+                        new
+                        {
+                            AuthenticationID = 1,
+                            Password = "ghostHire",
+                            PasswordConfirmation = "ghostHire",
+                            Username = "ghostHire"
+                        });
+                });
+
             modelBuilder.Entity("GhostHire.Models.ServiceModel", b =>
                 {
                     b.Property<int>("Id")
