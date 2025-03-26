@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GhostHire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4bc7365ec79ad85fd4b259ba8425fa40f7cd45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186e014726dfd22fb82d04a3921ec734f5de6d7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GhostHire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GhostHire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

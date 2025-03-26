@@ -7,12 +7,10 @@
     <p class="confirmation-text">Your post has been received and is under review.<br>It will be posted shortly if approved.</p>
 
     <!-- Display Local GIF -->
-    <img src="~/assets/images/verified.gif" alt="Verified" class="confirmation-gif">
-
+    <img src="@Url.Content("~/assets/images/verified.gif")" alt="Verified" class="confirmation-gif">
     <a href="@Url.Action("HomePage", "Home")" class="btn-home">Back to Home</a>
 </div>
 
-<!-- Styling -->
 <style>
     .confirmation-container {
         text-align: center;
@@ -38,13 +36,12 @@
         line-height: 1.6;
     }
 
-    /* Style for GIF */
     .confirmation-gif {
-        width: 100px; /* Scale down */
+        width: 100px;
         display: block;
         margin: 15px auto;
         border-radius: 8px;
-        filter: grayscale(100%);
+        filter: grayscale(50%);
     }
 
     .btn-home {
@@ -62,3 +59,4 @@
             background-color: #0056b3;
         }
 </style>
+

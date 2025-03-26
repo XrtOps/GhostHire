@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|d:\\conestogaschool\\sem4\\ghosthire(current)\\ghosthire\\ghosthire\\ghosthire\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|d:\\conestogaschool\\sem4\\ghosthire(current)\\ghosthire\\ghosthire\\ghosthire\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|d:\\conestogaschool\\sem4\\ghosthire(current)\\ghosthire\\ghosthire\\ghosthire\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|solutionrelative:ghosthire\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1EF9AF6-F989-4A55-A2E3-0D8068128BB1}|GhostHire\\GhostHire.csproj|d:\\conestogaschool\\sem4\\ghosthire(current)\\ghosthire\\ghosthire\\ghosthire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,15 +158,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Proposal.cs",
               "DocumentMoniker": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\Models\\Proposal.cs",
               "RelativeDocumentMoniker": "GhostHire\\Models\\Proposal.cs",
               "ToolTip": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\Models\\Proposal.cs",
               "RelativeToolTip": "GhostHire\\Models\\Proposal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:23:04.65Z"
+              "WhenOpened": "2025-03-17T15:23:04.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -506,16 +507,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServiceModel.cs",
               "DocumentMoniker": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\Models\\ServiceModel.cs",
               "RelativeDocumentMoniker": "GhostHire\\Models\\ServiceModel.cs",
               "ToolTip": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\Models\\ServiceModel.cs",
               "RelativeToolTip": "GhostHire\\Models\\ServiceModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T15:44:27.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T15:44:27.705Z"
             },
             {
               "$type": "Document",

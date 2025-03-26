@@ -1,21 +1,15 @@
 ﻿@{
-    ViewData["Title"] = "Contact Us";
+    ViewData["Title"] = "About KSL Company";
 }
-
-<!-- Link to External Stylesheet -->
-<link rel="stylesheet" href="/css/contact.css">
 
 <!-- Navigation Bar -->
 <nav class="navbar">
     <div class="nav-left">
-        <!-- GhostHire Logo Redirects to Home -->
         <div class="logo">
             <a href="@Url.Action("HomePage", "Home")">
                 <img src="/assets/images/GhostHireLogo.png" alt="GhostHire Logo" class="logo-img">
             </a>
         </div>
-
-        <!-- Navigation Links -->
         <ul class="nav-links">
             <li><a href="@Url.Action("HomePage", "Home")">Home</a></li>
             <li><a href="@Url.Action("Sell", "Home")">Shop For Services</a></li>
@@ -26,29 +20,18 @@
     </div>
 </nav>
 
-<div class="contact-container">
-    <h2 class="contact-title">Contact Us</h2>
-
-    <div class="contact-info">
-        <p><strong>Phone:</strong> (222) 444-2424</p>
-        <p><strong>Email:</strong> support@ghosthire.com</p>
-        <p><strong>Address:</strong> 48 King St E, Kitchener, ON</p>
-    </div>
-
-    <div class="contact-form">
-        <label for="message">Send Us a Message:</label>
-        <textarea id="message" rows="5" placeholder="Type your message here..."></textarea>
-        <button type="submit" onclick="submitMessage()">Submit</button>
-        <p id="success-message" class="hidden">Thank you! Your message has been sent.</p>
-    </div>
-
-    <!-- TODO: Implement backend functionality to process form submission -->
+<!-- About Section -->
+<div class="about-container">
+    <h1 class="about-title">About KSL Company</h1>
+    <p class="about-text">
+        KSL Company is dedicated to creating a fair and inclusive online marketplace for freelancers and clients.
+        Our platform is designed to eliminate biases, ensuring that opportunities are based solely on skills and expertise.
+    </p>
+    <p class="about-text">
+        Whether you’re a professional looking to showcase your talents or a client searching for quality services, our platform
+        provides a seamless and anonymous way to connect, collaborate, and achieve success.
+    </p>
 </div>
 
-<!-- JavaScript -->
-<script>
-    function submitMessage() {
-        // Placeholder functionality for now
-        document.getElementById("success-message").classList.remove("hidden");
-    }
-</script>
+<!-- Styling -->
+<link rel="stylesheet" href="/css/about.css">
