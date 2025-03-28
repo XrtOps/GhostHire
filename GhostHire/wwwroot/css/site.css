@@ -10,6 +10,7 @@ body {
     font-family: "Montserrat", sans-serif;
     background-color: white;
     transition: background-color 0.3s ease;
+    
 }
 
     /* Light Mode Styling */
@@ -178,52 +179,6 @@ body {
     }
 
 
-/* Footer Styling */
-footer {
-    background-color: #212529;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    width: 100%;
-    bottom: 0;
-}
-
-/* Footer Links */
-.footer-links {
-    list-style: none;
-    padding: 10px;
-}
-
-    .footer-links li {
-        display: inline;
-        margin: 0 10px;
-    }
-
-        .footer-links li a {
-            text-decoration: none;
-            color: white;
-            font-size: 14px;
-        }
-
-            .footer-links li a:hover {
-                color: #19dafa;
-            }
-
-/* Social Icons */
-.social-icons {
-    margin-top: 10px;
-}
-
-    .social-icons a {
-        margin: 0 5px;
-        color: white;
-        font-size: 20px;
-        transition: color 0.3s ease;
-    }
-
-        .social-icons a:hover {
-            color: #19dafa;
-        }
 
 /* Particles Background */
 #particles-js {

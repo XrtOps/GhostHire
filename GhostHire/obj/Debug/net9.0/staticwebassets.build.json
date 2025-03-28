@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DMygpsvoPsfgDhFK8kWl5wv4LKAFixeJAO4VN6QPHsU=",
+  "Hash": "OX5GY3eAOmzuyc7/jrSLBmNkT7MYgUnrIW2SggC+QEI=",
   "Source": "GhostHire",
   "BasePath": "_content/GhostHire",
   "Mode": "Default",
@@ -2705,12 +2705,12 @@
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-f48aqxw33q.gz",
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-oru2zrl7bl.gz",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GhostHire",
-      "RelativePath": "css/loginauthentication#[.{fingerprint=f48aqxw33q}]?.css.gz",
+      "RelativePath": "css/loginauthentication#[.{fingerprint=oru2zrl7bl}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2719,8 +2719,8 @@
       "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\loginauthentication.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "t6kfa7rlo1",
-      "Integrity": "Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc=",
+      "Fingerprint": "qbrt09iu7h",
+      "Integrity": "lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\loginauthentication.css"
@@ -2852,12 +2852,12 @@
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-g8xv68f8jr.gz",
+      "Identity": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-luon35b13s.gz",
       "SourceId": "GhostHire",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GhostHire",
-      "RelativePath": "css/site#[.{fingerprint=g8xv68f8jr}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=luon35b13s}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2866,8 +2866,8 @@
       "RelatedAsset": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0xmgwvjzq7",
-      "Integrity": "/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE=",
+      "Fingerprint": "fjqlzrj3rr",
+      "Integrity": "m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\site.css"
@@ -6415,8 +6415,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f48aqxw33q",
-      "Integrity": "n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI=",
+      "Fingerprint": "oru2zrl7bl",
+      "Integrity": "vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\loginauthentication.css"
@@ -6499,8 +6499,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "g8xv68f8jr",
-      "Integrity": "AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk=",
+      "Fingerprint": "luon35b13s",
+      "Integrity": "jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -31549,12 +31549,12 @@
     },
     {
       "Route": "css/loginauthentication.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-f48aqxw33q.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-oru2zrl7bl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001620745543"
+          "Quality": "0.001408450704"
         }
       ],
       "ResponseHeaders": [
@@ -31564,15 +31564,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "616"
+          "Value": "709"
         },
         {
           "Name": "ETag",
-          "Value": "\"Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc=\""
+          "Value": "\"lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31592,13 +31592,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI=\""
+          "Value": "W/\"vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI="
+          "Value": "sha256-vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg="
         }
       ]
     },
@@ -31613,7 +31613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1866"
+          "Value": "2141"
         },
         {
           "Name": "Content-Type",
@@ -31621,11 +31621,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI=\""
+          "Value": "\"vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31635,13 +31635,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI="
+          "Value": "sha256-vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg="
         }
       ]
     },
     {
       "Route": "css/loginauthentication.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-f48aqxw33q.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-oru2zrl7bl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -31650,7 +31650,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "616"
+          "Value": "709"
         },
         {
           "Name": "Content-Type",
@@ -31658,11 +31658,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc=\""
+          "Value": "\"lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31680,18 +31680,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc="
+          "Value": "sha256-lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI="
         }
       ]
     },
     {
-      "Route": "css/loginauthentication.f48aqxw33q.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-f48aqxw33q.gz",
+      "Route": "css/loginauthentication.oru2zrl7bl.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-oru2zrl7bl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001620745543"
+          "Quality": "0.001408450704"
         }
       ],
       "ResponseHeaders": [
@@ -31701,15 +31701,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "616"
+          "Value": "709"
         },
         {
           "Name": "ETag",
-          "Value": "\"Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc=\""
+          "Value": "\"lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31729,13 +31729,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI=\""
+          "Value": "W/\"vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f48aqxw33q"
+          "Value": "oru2zrl7bl"
         },
         {
           "Name": "label",
@@ -31743,12 +31743,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI="
+          "Value": "sha256-vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg="
         }
       ]
     },
     {
-      "Route": "css/loginauthentication.f48aqxw33q.css",
+      "Route": "css/loginauthentication.oru2zrl7bl.css",
       "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\loginauthentication.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -31758,7 +31758,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1866"
+          "Value": "2141"
         },
         {
           "Name": "Content-Type",
@@ -31766,11 +31766,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI=\""
+          "Value": "\"vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31780,7 +31780,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f48aqxw33q"
+          "Value": "oru2zrl7bl"
         },
         {
           "Name": "label",
@@ -31788,13 +31788,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n4VILVV3xIY1jAit28H8IEgfIzPFdNtx2r4fQIOy/lI="
+          "Value": "sha256-vJhuz7Xrf62h/AnO+nntcib4RAOcFF+bR7zxm0SP5Jg="
         }
       ]
     },
     {
-      "Route": "css/loginauthentication.f48aqxw33q.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-f48aqxw33q.gz",
+      "Route": "css/loginauthentication.oru2zrl7bl.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\tojefsb8tw-oru2zrl7bl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -31803,7 +31803,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "616"
+          "Value": "709"
         },
         {
           "Name": "Content-Type",
@@ -31811,11 +31811,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc=\""
+          "Value": "\"lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 23:25:05 GMT"
+          "Value": "Thu, 27 Mar 2025 23:38:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31833,7 +31833,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f48aqxw33q"
+          "Value": "oru2zrl7bl"
         },
         {
           "Name": "label",
@@ -31841,7 +31841,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Cza81KwTLJ+CuqeJNhPHfuJSSSuW2XovfTCvDANXMZc="
+          "Value": "sha256-lpO6a19hCntom2D3wrc/2RxK6Ya+HuXJluh2o22UDGI="
         }
       ]
     },
@@ -32741,12 +32741,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-g8xv68f8jr.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-luon35b13s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000513083633"
+          "Quality": "0.000555247085"
         }
       ],
       "ResponseHeaders": [
@@ -32756,15 +32756,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1800"
         },
         {
           "Name": "ETag",
-          "Value": "\"/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE=\""
+          "Value": "\"m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32784,13 +32784,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk=\""
+          "Value": "W/\"jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk="
+          "Value": "sha256-jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M="
         }
       ]
     },
@@ -32805,7 +32805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6981"
+          "Value": "6144"
         },
         {
           "Name": "Content-Type",
@@ -32813,11 +32813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk=\""
+          "Value": "\"jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32827,13 +32827,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk="
+          "Value": "sha256-jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-g8xv68f8jr.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-luon35b13s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -32842,7 +32842,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1800"
         },
         {
           "Name": "Content-Type",
@@ -32850,11 +32850,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE=\""
+          "Value": "\"m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32872,18 +32872,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE="
+          "Value": "sha256-m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo="
         }
       ]
     },
     {
-      "Route": "css/site.g8xv68f8jr.css",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-g8xv68f8jr.gz",
+      "Route": "css/site.luon35b13s.css",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-luon35b13s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000513083633"
+          "Quality": "0.000555247085"
         }
       ],
       "ResponseHeaders": [
@@ -32893,15 +32893,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1800"
         },
         {
           "Name": "ETag",
-          "Value": "\"/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE=\""
+          "Value": "\"m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32921,13 +32921,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk=\""
+          "Value": "W/\"jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g8xv68f8jr"
+          "Value": "luon35b13s"
         },
         {
           "Name": "label",
@@ -32935,12 +32935,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk="
+          "Value": "sha256-jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M="
         }
       ]
     },
     {
-      "Route": "css/site.g8xv68f8jr.css",
+      "Route": "css/site.luon35b13s.css",
       "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -32950,7 +32950,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6981"
+          "Value": "6144"
         },
         {
           "Name": "Content-Type",
@@ -32958,11 +32958,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk=\""
+          "Value": "\"jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32972,7 +32972,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g8xv68f8jr"
+          "Value": "luon35b13s"
         },
         {
           "Name": "label",
@@ -32980,13 +32980,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AJBIw7BF5qgAaOO+Tfgqs41P1/IHkUyMcnRGzqVqOSk="
+          "Value": "sha256-jeQJyWYVO1coGJn4r8gnlZwuRj+TrUbmWlx3xe/1X6M="
         }
       ]
     },
     {
-      "Route": "css/site.g8xv68f8jr.css.gz",
-      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-g8xv68f8jr.gz",
+      "Route": "css/site.luon35b13s.css.gz",
+      "AssetFile": "D:\\ConestogaSchool\\Sem4\\GhostHire(Current)\\GhostHire\\GhostHire\\GhostHire\\obj\\Debug\\net9.0\\compressed\\vfplfy2zml-luon35b13s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -32995,7 +32995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1948"
+          "Value": "1800"
         },
         {
           "Name": "Content-Type",
@@ -33003,11 +33003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE=\""
+          "Value": "\"m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:15:00 GMT"
+          "Value": "Fri, 28 Mar 2025 00:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33025,7 +33025,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g8xv68f8jr"
+          "Value": "luon35b13s"
         },
         {
           "Name": "label",
@@ -33033,7 +33033,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/DvvNQcrk0yy9j0nlbECmLCOVP6TVzrOssaVTFnOYjE="
+          "Value": "sha256-m7hf8WUSWA0CZaGm8b4DhjBmRqejKaEX7ySqJS1RPoo="
         }
       ]
     },

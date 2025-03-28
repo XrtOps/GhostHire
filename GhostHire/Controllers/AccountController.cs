@@ -26,13 +26,14 @@ namespace GhostHire.Controllers
                 if(appDbContext.authentications.Any(x => x.Username == user.Username))
                 {
                     ModelState.AddModelError("", "Username exists");
-                    return View();
+                    return View(user);
                 }
                 appDbContext.authentications.Add(user);
                 appDbContext.SaveChanges();
-                return RedirectToAction("LoginPage");
+                
+                return RedirectToAction("LoginPage", "Account");
             }
-            return View();
+            return View(user);
         }
 
         public IActionResult LoginPage()

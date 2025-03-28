@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GhostHire.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250326213123_Initial")]
+    [Migration("20250327231532_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -36,10 +36,6 @@ namespace GhostHire.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("PasswordConfirmation")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -47,15 +43,6 @@ namespace GhostHire.Migrations
                     b.HasKey("AuthenticationID");
 
                     b.ToTable("authentications");
-
-                    b.HasData(
-                        new
-                        {
-                            AuthenticationID = 1,
-                            Password = "ghostHire",
-                            PasswordConfirmation = "ghostHire",
-                            Username = "ghostHire"
-                        });
                 });
 
             modelBuilder.Entity("GhostHire.Models.ServiceModel", b =>

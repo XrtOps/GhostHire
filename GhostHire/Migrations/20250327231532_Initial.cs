@@ -17,8 +17,7 @@ namespace GhostHire.Migrations
                     AuthenticationID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Username = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PasswordConfirmation = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -41,11 +40,6 @@ namespace GhostHire.Migrations
                 {
                     table.PrimaryKey("PK_Services", x => x.Id);
                 });
-
-            migrationBuilder.InsertData(
-                table: "authentications",
-                columns: new[] { "AuthenticationID", "Password", "PasswordConfirmation", "Username" },
-                values: new object[] { 1, "ghostHire", "ghostHire", "ghostHire" });
         }
 
         /// <inheritdoc />

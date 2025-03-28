@@ -10,16 +10,7 @@ namespace GhostHire.Data
         public DbSet<ServiceModel> Services { get; set; }
         public DbSet<Authentication> authentications { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Authentication>().HasData(new Authentication
-            {
-                AuthenticationID = 1,
-                Username = "ghostHire",
-                Password = "ghostHire",
-                PasswordConfirmation = "ghostHire"
-            });
-        }
+        
 
     }
 }

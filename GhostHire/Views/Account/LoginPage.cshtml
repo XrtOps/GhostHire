@@ -7,6 +7,7 @@
 <head>
 	<title>Login Page</title>
 	<link rel="stylesheet" href="~/css/loginauthentication.css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 </head>
 <body>
 
@@ -30,8 +31,11 @@
 								<input type="text" asp-for="Username" name="username" id="username" class="form__input" placeholder="Username">
 							</div>
 							<div class="row">
-								<!-- <span class="fa fa-lock"></span> -->
-								<input type="password" asp-for="Password" name="password" id="password" class="form__input" placeholder="Password">
+								<div class="password-container">
+									<!-- <span class="fa fa-lock"></span> -->
+									<input type="password" asp-for="Password" name="password" id="password" class="form__input" placeholder="Password">
+									<span id="togglePassword" class="fa fa-eye"></span>
+								</div>
 							</div>
 							<div class="row">
 								<input type="checkbox" name="remember_me" id="remember_me" class="">
@@ -50,3 +54,18 @@
 		</div>
 	</div>
 </body>
+<script>
+	document.getElementById("togglePassword").addEventListener("click", function() {
+		var passwordInput = document.getElementById("password");
+
+		if(passwordInput.type === "password") {
+			passwordInput.type = "text";
+			this.classList.remove("fa-eye");
+			this.classList.add("fa-eye-slash");
+		} else {
+			passwordInput.type = "password";
+			this.classList.remove("fa-eye-slash");
+			this.classList.add("fa-eye");
+		}
+	});
+</script>
